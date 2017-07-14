@@ -1,0 +1,16 @@
+Firewall group for each vm, Firewall configs - DMZ
+
+public ip through firewall - AAM in sharepoint
+DB in firewall, SharePoint can be exposed
+Jumpbox tech to front end VM to back end remote
+
+
+Resource Group
+
+Firewall Settings
+Domain Controller - across Network , Users
+DMZ and Firewall issues while configuraion
+Size Dynamic
+ip's 
+Groups, Servers configs and limitations
+
