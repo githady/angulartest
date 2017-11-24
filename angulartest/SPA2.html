@@ -1,0 +1,10 @@
+﻿   
+    <div class="container">
+        SPA2
+        <br /><input type="text" data-ng-model="filter.city" />
+        <br />
+        <ul>
+            <li data-ng-repeat="cust in customers1 | filter:filter.city | orderBy:'name'">{{cust.name}} - {{cust.city}}</li>
+        </ul>
+    </div>
+    

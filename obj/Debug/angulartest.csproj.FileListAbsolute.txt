@@ -31,3 +31,5 @@ F:\angular\angulartest\angulartest\bin\Microsoft.CodeDom.Providers.DotNetCompile
 F:\angular\angulartest\angulartest\obj\Debug\angulartest.csprojResolveAssemblyReference.cache
 F:\angular\angulartest\angulartest\obj\Debug\angulartest.dll
 F:\angular\angulartest\angulartest\obj\Debug\angulartest.pdb
+C:\Users\kothari_h\Source\Repos\angulartest\obj\Debug\angulartest.dll
+C:\Users\kothari_h\Source\Repos\angulartest\obj\Debug\angulartest.pdb
