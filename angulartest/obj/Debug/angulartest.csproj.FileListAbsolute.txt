@@ -15,6 +15,5 @@ C:\Users\kothari_h\Source\Repos\angulartest\angulartest\bin\angulartest.dll
 C:\Users\kothari_h\Source\Repos\angulartest\angulartest\bin\angulartest.pdb
 C:\Users\kothari_h\Source\Repos\angulartest\angulartest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\kothari_h\Source\Repos\angulartest\angulartest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\kothari_h\Source\Repos\angulartest\angulartest\obj\Debug\angulartest.csprojResolveAssemblyReference.cache
 C:\Users\kothari_h\Source\Repos\angulartest\angulartest\obj\Debug\angulartest.dll
 C:\Users\kothari_h\Source\Repos\angulartest\angulartest\obj\Debug\angulartest.pdb
